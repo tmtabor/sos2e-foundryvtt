@@ -1,0 +1,30 @@
+{
+  "name": "sos2e",
+  "version": "0.6.0",
+  "description": "A comprehensive game system for running Shadows Over Sol 2e in Foundry Virtual Tabletop. Uses the Saga Machine ruleset. By Tab Creations.",
+  "source": "modules/main.js",
+  "main": "dist/sagamachine.js",
+  "targets": {
+    "main": {
+      "isLibrary": false,
+      "optimize": true
+	}
+  },
+  "scripts": {
+    "build": "parcel build --no-cache"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmtabor/sos2e-foundryvtt.git"
+  },
+  "keywords": [],
+  "author": "Thorin Tabor",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/tmtabor/sos2e-foundryvtt/issues"
+  },
+  "homepage": "https://github.com/tmtabor/sos2e-foundryvtt#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
