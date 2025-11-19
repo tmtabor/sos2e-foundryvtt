@@ -1,0 +1,3 @@
+[submodule "saga-machine-foundryvtt"]
+	path = saga-machine-foundryvtt
+	url = https://github.com/tmtabor/saga-machine-foundryvtt.git
