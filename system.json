@@ -16,8 +16,7 @@
     "languages": [
       {
         "lang": "en",
-        "name": "English",
-        "path": "lang/en.json"
+        "name": "English"
       }
     ],
     "socket": true,

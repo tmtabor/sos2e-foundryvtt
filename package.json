@@ -3,7 +3,7 @@
   "version": "0.6.0",
   "description": "A comprehensive game system for running Shadows Over Sol 2e in Foundry Virtual Tabletop. Uses the Saga Machine ruleset. By Tab Creations.",
   "source": "modules/main.js",
-  "main": "dist/sagamachine.js",
+  "main": "dist/sos2e.js",
   "targets": {
     "main": {
       "isLibrary": false,
