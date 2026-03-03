@@ -25,7 +25,7 @@
     "primaryTokenAttribute": "scores.health",
     "secondaryTokenAttribute": "scores.luck",
     "url": "https://github.com/tmtabor/sos2e-foundryvtt",
-    "manifest": "https://github.com/tmtabor/sos2e-foundryvtt/releases/latest/download/system.json",
-    "download": "https://github.com/tmtabor/sos2e-foundryvtt/releases/latest/download/sos2e-foundryvtt.zip",
+    "manifest": "https://github.com/tmtabor/sos2e-foundryvtt/releases/0.6.0/download/system.json",
+    "download": "https://github.com/tmtabor/sos2e-foundryvtt/releases/0.6.0/download/sos2e-foundryvtt.zip",
     "license": "LICENSE.txt"
 }
